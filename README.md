@@ -1,4 +1,4 @@
-💔🔥FUCK_AKING_PAID_COMMAND 🥵🖕
+💔🔥 FUCK_AKING_PAID_COMMAND 🥵🖕
 
 💁 pkg update
 
