@@ -8,10 +8,10 @@ import requests,time
 bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
-    print('\n\n\n\n\n FUCK AKING IN PROGRESS...!')
+    print('\n\n\n\n\n Lal AK47 IN PROGRESS...!')
     time.sleep(2)
     os.system('clear')
-    print('\n\n\n\n\n BYPASS BY 💁 MrKAUSAR Respect Bro...!')
+    print('\n\n\n\n\n BYPASS BY 💁 MrLal Respect Bro...!')
     time.sleep(6)
     from pc import readline___Public_Xml
     readline___Public_Xml()
