@@ -4,7 +4,7 @@
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-# First Your Run Setup Tools
+# First You Run Setup Tools.
 
 -`rm -rf All_SETUP`
 
