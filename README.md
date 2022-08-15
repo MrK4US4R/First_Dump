@@ -6,13 +6,13 @@
 
 # First You Run Setup Tools.
 
--`rm -rf All_SETUP`
+- `rm -rf All_SETUP`
 
--`git clone https://github.com/MrK4US4R/All_SETUP`
+- `git clone https://github.com/MrK4US4R/All_SETUP`
 
--`cd All_SETUP`
+- `cd All_SETUP`
 
--`bash All_SetUp.sh`
+- `bash All_SetUp.sh`
 
 
 # Installation
